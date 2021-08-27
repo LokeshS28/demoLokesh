@@ -13,8 +13,7 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          As a self- taught programmer, i continuous iteration to produce
-          results quickly and improve my works
+          My self lokesh , im a fresher in Targetbay
         </p>
         <p>
           (This is a sample website {" "}
