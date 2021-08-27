@@ -71,4 +71,3 @@ export default function Layout({ children, home }) {
     </div>
   );
 }
-// classromm?"clasroom filled":"classroom empty"
