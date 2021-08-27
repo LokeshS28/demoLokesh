@@ -4,7 +4,7 @@ import Image from "next/image";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
-const name = "LOKESH S";
+const name = "LOKESH.S";
 export const siteTitle = "Next.js Sample Website";
 
 export default function Layout({ children, home }) {
